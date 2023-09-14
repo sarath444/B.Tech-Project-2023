@@ -55,7 +55,7 @@ This project focuses on using UAVs with thermal cameras to assess drought resist
     <td>Sarath S </td>
     <td>Proposal submitted<br>Presentation done<br>Progress: 15%</td>
     <td>
-      <a href="proposal.pdf">Proposal</a><br>
+      <a href="B3-Level-0_ANZEN T GEORGE.pdf">Proposal</a><br>
      </td>
   </tr>  
     <tr>
