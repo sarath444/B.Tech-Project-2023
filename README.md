@@ -56,7 +56,7 @@ This project focuses on using UAVs with thermal cameras to assess drought resist
     <td>Sarath S </td>
     <td>Proposal submitted<br>Presentation done<br>Progress: 15%</td>
     <td>
-      <a href="proposal.pdf">Proposal</a><br>
+      <a href="B3/B3-Level-0_ANZEN T GEORGE.pdf">Proposal</a><br>
      </td>
   </tr>  
     <tr>
@@ -132,7 +132,7 @@ algorithms, specifically convolutional neural networks (CNNs), can be used to cl
     <td>Sarath S </td>
     <td>Proposal submitted<br>Presentation done<br>Progress: 15%</td>
     <td>
-      <a href="abstract_gp21(B6) (2).pdf">Proposal</a><br>
+      <a href="B6/abstract_gp21(B6) (2).pdf">Proposal</a><br>
      </td>
   </tr>  
     <tr>
@@ -208,7 +208,7 @@ underripe, ripe, or overripe based on thermal images. The model's performance is
     <td>Sarath S </td>
     <td>Proposal submitted<br>Presentation done<br>Progress: 15%</td>
     <td>
-      <a href="abstract_gp B8.pdf">Proposal</a><br>
+      <a href="B8/abstract_gp B8.pdf">Proposal</a><br>
      </td>
   </tr>  
     <tr>
